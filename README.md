@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=kklll&show_icons=true&count_private=true&hide=issues&hide_title=true" />
 </a>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently Currently looking for a job
 - 🌱 I’m currently learning `Java` and `Data Structure`
 - 👯 Code language: ` java`、`C/C++`
 - ⚡ Fun fact: `Sleep`   
