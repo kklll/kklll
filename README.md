@@ -5,8 +5,8 @@
 </a>
 
 - 🔭 I’m currently Currently looking for a job
-- 🌱 I’m currently learning `Java` and `Data Structure`
-- 👯 Code language: ` java`、`C/C++`
+- 🌱 I’m currently learning `Go` `Java` and `Data Structure`
+- 👯 Code language: `GO` `java`、`C/C++`
 - ⚡ Fun fact: `Sleep`   
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-Java-2496ED?style=flat-square&logo=java&logoColor=fff)
